@@ -7,6 +7,8 @@ Una aplicación web desarrollada con React + TypeScript que muestra información
 - Navegación entre diferentes secciones de héroes (Marvel y DC)
 - Sistema de autenticación básico
 - Visualización de listados de héroes por editorial
+- Búsqueda de héroes
+- Visualización detallada de cada héroe
 - Diseño responsive utilizando Bootstrap
 - Enrutamiento dinámico con React Router
 
