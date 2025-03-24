@@ -4,6 +4,7 @@ import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter } from "react-router-dom";
 import { Heroes } from "./Heroes";
+import 'animate.css';
 
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
