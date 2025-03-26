@@ -5,13 +5,14 @@ Una aplicación web desarrollada con React + TypeScript que muestra información
 ## 🚀 Características
 
 - Navegación entre diferentes secciones de héroes (Marvel y DC)
-- Sistema de autenticación básico
+- Sistema de autenticación con persistencia de usuario
 - Visualización de listados de héroes por editorial
 - Búsqueda de héroes con filtrado en tiempo real
 - Visualización detallada de cada héroe con animaciones
-- Diseño responsive utilizando Bootstrap
-- Enrutamiento dinámico con React Router
+- Diseño responsive utilizando Bootstrap 5
+- Enrutamiento dinámico con React Router v6
 - Animaciones con Animate.css
+- Gestión de estado con Context API y useReducer
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -21,6 +22,9 @@ Una aplicación web desarrollada con React + TypeScript que muestra información
 - React Router DOM v6
 - Bootstrap 5
 - ESLint
+- Context API
+- Animate.css
+- Query String
 
 ## 📦 Instalación
 
